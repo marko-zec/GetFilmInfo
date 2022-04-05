@@ -1,4 +1,4 @@
-Program: Get Movie Cover
+Program: Get Film Info
 Author: Marko Zec
 Version: 1.0
 Date: 26.7.2021
