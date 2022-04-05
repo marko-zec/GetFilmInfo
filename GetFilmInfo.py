@@ -6,7 +6,7 @@ try:
     import requests
 except ImportError:
     print("Nedostaju potrebni moduli. Pokreni skriptu 'Instalacija_paketa.bat'")
-    print("Missing dependancie modules. Run 'Instalacija_paketa.bat' script"); input()
+    print("Missing dependency modules. Run 'Instalacija_paketa.bat' script"); input()
     raise SystemExit(0)
 
 os.system("") #omogucuje koristenje ansii escape sekvenca (boje) u windowsima
